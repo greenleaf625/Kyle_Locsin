@@ -1,0 +1,10 @@
+97 Things every programmer should know
+
+Chapter 3 Ask "What Would the User Do?" (You Are not the User)
+
+
+Before- 
+I tend to ask myself or put myself as a user, a not computer literate, or new to this kind technology, but in the end my specculations are wrong.
+
+After- 
+Reading this chapter give me an idea how to exactly know what the user would do in program that design to solve problems, help them to make a task that takes an hour into a minutes of work..etc, watching a user do his/her initiative in using software application, is better than making myself simulate as the user.
