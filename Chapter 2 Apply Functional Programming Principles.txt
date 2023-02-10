@@ -1,9 +1,0 @@
-97 Things every programmer should know
-
-Chapter 2 Apply Functional Programming Principles
-
-Before- 
-For honesty, I don't quite understand how to write a good code or a clean code, as of for me if it's running then that is good, as long as it did what the task instruct it to do, it does not matter for me if how long the code is or short, my main focus is, if this code can run and solve the problem.
-
-After- 
-Functional Programming is making code a much better, smoother, and lessen the code, also it is easier to debug or know the cause of the error, because you just reuse the other functions, as for me, I can't clearly know how to use this type of programming, but in this method, I hope to gather more knowledge so I can use it, in my future work.
